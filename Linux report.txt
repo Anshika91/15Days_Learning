@@ -1,0 +1,59 @@
+Linux Tutorial___
+
+What is an operating system?
+An operating system(os) is the program that, after being initially loaded into the computer by a boot program, manage all of the other application programs in a computer.
+
+what is linux?
+linux is a set of open source operating system. it as simple as that just like windows and mac, linux based OS provide us an interface to use specific programs with help of the hardware.
+
+linux history?
+linux was a UNIX based kernel developed by Linus trovald in 1991.he was driven by the lack of open source UNIX based systems that people could use.
+
+Benefits of using Linux?
+open source
+Highly Flexible
+Lightweight
+Highly configurable
+Fewer Malware
+Awesome for Development
+Stable
+Large Community
+Performance
+
+Linux VS Unix?
+What is UNIX?
+its an operating system developed by ken thompson, dennis ritchie in 1970. it is written in C. it influenced the development of other popular operating system such as:mac,solaris,AIX.
+it was a paid OS that At&T sold after it's development.
+UNIX is complete operating system.
+
+What is Linux?
+It is a also operating system. it is a UNIX like operating system. it does not share any source code with UNIX,but it shares the design principles with UNIX.
+it promotes the use of open source software.
+Linux is a kernel , when it is packaged with different distributions it becomes a complete operating system of that flavor.
+
+Different Linux Distros?
+RedHat 
+open Source
+
+
+Linux Architecture & Components
+Application
+Shell
+Linux Kernel
+Hardware
+
+Linux Components?
+Linux Kernel__    
+Schedulers
+File System                      system Libraries                              System Software                        User Processes
+Security
+Network
+Drivers
+  
+
+Linux Installation & setup-requirements?
+Ubuntu
+Virtual box
+
+At least 4 GB of RAM & 20 GB free hard-drive space
+or just launch a VM on a Cloud(AWS,Azure,GCP)-Easy & Free
