@@ -1,0 +1,63 @@
+AGENDA__
+
+1.What is Image Processing
+2.Traditional ML VS Deep Learning3.Human Brain VS AI
+4.How Image Input Work in Computer
+5.What is CNN
+6.Layers in CNN
+7.Convolutional Layer
+8.Relu Layer
+9.Pooling Layer
+10.Fully Connected Layer
+11.Demo:Learning Processing with python.
+
+
+1.What is image Processing?
+Image Processing is a method to perform some important operations on an image. In order to get an enhanced high Quality image or to extract the most useful information from that__
+It is a one type of Signal Processing.
+In this Processing input is an image and output may be image or characteristics/features associated with that image.
+
+2.Traditional Machine Learning or Deep Learning
+Manual Selection from so many features is impossible in Traditional Machine Learning.
+Where ML fails there Deep Leaning Comes into Picture.
+
+3.Human Brain VS AI?
+Human Brain Vs Neural Network
+Neuron                                      Artificial Neuron
+Cell Nucleus                              Node
+Dendrites                                   Input:x1,x2
+Synapse                                      Weights or interconnections
+Axon                                            f(x) (mapping,activation,learning)
+Terminal Axon                           Output:y1
+
+4.How Image inputs work in computer?
+Converts the image into an array of pixel values where the dimension of array depends on the resolutionof image.
+Array of dimension 32*32*3(The 3 refers to RGB values)
+
+5.What is CNN?
+"A Feed Forward Network to process and recognize image data with the grid version"
+
+6.Layers in CNN?
+Input Layer--->Convolution Layer--->Pooling Layer--->Dense Layer--->Output Layer.
+
+7.Convolution Layer
+"Converts images into an array"
+Firts Layer of CNN
+Stores the pixelated values of image into an array
+Used for Extracting the features of the image and reducing its dimensionality.
+
+8.Relu Layer
+"Converts Negative values into zero"
+Relu is a half rectifier
+f(y)=0 when y<0
+f(y)=y when y>=0
+Range of Relu:[0 to infinity]
+
+9.Pooling Layer
+"Reduces the spatial size and the numbers of parameters"
+Used to Reduced Dimensionality
+Helps to Control overfitting
+Filters of size 2*2 are Commonly used in it.
+
+10.Fully connected network
+"Combines the extracted features and represents a new model"

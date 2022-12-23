@@ -1,0 +1,61 @@
+AGENDA__
+
+1.What is Python
+2.History of Python
+3.Why Python is so popular
+4.Install Python
+5.Statistical visulization on Python user
+6.What is opencv
+7.How Computer read an image
+8.History of opencv
+9.Getting started with opencv
+10.Face regonition using opencv 
+
+1.Introduction to Python
+"Python is a popular high level,object oriented and interpreted language"
+
+Why should you learn python
+1.web development using python
+2.length of the program is short
+3.python is simple and beginner friendly language
+4.mathematical computation can be done easily
+5.graphical user interface
+
+3.Why python is so popular?
+1.Largest community for Learners and collaborators
+2.open source
+3.Easy to learn and usable flexibility
+4.Huge numbers of python libraries and framework
+5.Supports Big data, Machine Learning and Cloud computing
+6.Supports Automation
+
+4.Installing Python
+This is the site to install python->hhtps://www.python.org/downloads/
+Popular IDE for python:Pycharm
+hhtps://www.jetbrains.com/pycharm/download/#section=mac
+Popular IDE for python:Anaconda
+https://www.anaconda.com/products/individual
+Popular IDE for python:Google colab
+https://colab.research.google.com/notebook/intro.ipynb
+
+5.Statistical visulization on Python user
+In recent time it is prominent that python is one of the most popular language because of its simplicity.
+
+6.What is image Processing?
+Image processing is a method to perform some important operations on an image. In order to get an enhanced high quality image or to extract the most useful information from that.
+It is a one type of signal processing
+In this processing input is an image and output may be image or charateristics/features associated with that image.
+
+7.What is opencv?
+"OpenCv is a open source library which is widely used for computer vision pupose".
+It helps us to develop a system which can process image and real-time video using computer vision.
+OpenCv focused on image processing,real-time video capturing to detect faces and objects.
+
+8.History of OpenCv?
+opencv was invented by intel in 1999 by Gary Bradsky.
+The first release was in the year 2000.
+opencv stands for open source computer vision library.
+This library is based on optimized c/c++ and it supports java and python along with c++ through interface.
+
+9.How image input works in computer?
+"Converts the image into an array of pixel values where the dimension of array depends on the resolution of the image".
